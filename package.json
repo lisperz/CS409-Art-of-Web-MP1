@@ -1,0 +1,30 @@
+{
+  "name": "mp1",
+  "version": "1.0.0",
+  "description": "CS498RK MP1",
+  "scripts": {
+    "start": "webpack-dev-server",
+    "build": "webpack"
+  },
+  "author": "UIUC Web Programming Staff",
+  "license": "ISC",
+  "devDependencies": {
+    "@babel/core": "^7.15.0",
+    "@babel/preset-env": "^7.15.0",
+    "autoprefixer": "^10.4.20",
+    "babel-loader": "^8.2.2",
+    "copy-webpack-plugin": "^11.0.0",
+    "css-loader": "^6.11.0",
+    "html-loader": "^4.2.0",
+    "html-webpack-plugin": "^5.6.4",
+    "postcss": "^8.3.6",
+    "postcss-loader": "^7.3.4",
+    "prettier": "^2.3.2",
+    "sass": "^1.38.2",
+    "sass-loader": "^14.2.1",
+    "style-loader": "^3.3.4",
+    "webpack": "^5.101.3",
+    "webpack-cli": "^5.1.4",
+    "webpack-dev-server": "^4.15.2"
+  }
+}
